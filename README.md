@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marianaswebsurf
 - 👀 I’m interested in penetration testing
-- 🌱 I’m currently learning to script a better code 
+- 🌱 I’m currently learning how to script a better code 
 - 💞️ I’m looking to collaborate on bugbounty program(newbie)
 - 📫 How to reach me systeminate@gmail.com
 
